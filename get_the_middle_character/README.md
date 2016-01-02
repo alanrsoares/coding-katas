@@ -13,7 +13,7 @@ Kata.getMiddle("testing") // "t"
 
 Kata.getMiddle("middle") // "dd"
 
-Kata.getMiddle("A") should // "A"
+Kata.getMiddle("A") // "A"
 ```
 
 ### Input
