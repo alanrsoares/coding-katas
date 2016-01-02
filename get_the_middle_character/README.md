@@ -7,13 +7,13 @@ You are going to be given a word. Your job is to return the middle character of 
 ## Examples
 
 ```javascript
-Kata.getMiddle("test") // "es"
+getMiddle("test") // "es"
 
-Kata.getMiddle("testing") // "t"
+getMiddle("testing") // "t"
 
-Kata.getMiddle("middle") // "dd"
+getMiddle("middle") // "dd"
 
-Kata.getMiddle("A") // "A"
+getMiddle("A") // "A"
 ```
 
 ### Input
